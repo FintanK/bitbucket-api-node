@@ -1,0 +1,20 @@
+{
+  "name": "emc-repos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tbd"
+  },
+  "author": "Fintan kearney",
+  "license": "ISC",
+  "dependencies": {
+    "bitbucket-server-nodejs": "^2.11.3",
+    "install": "^0.8.2",
+    "npm": "^4.0.2"
+  }
+}
